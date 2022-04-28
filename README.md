@@ -1,4 +1,4 @@
-# EDA_Bank_Loan_Default_Risk_Analysis
+# EDA Bank Loan Default Risk Analysis
 
 ## Introduction
 
